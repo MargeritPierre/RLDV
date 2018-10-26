@@ -1,0 +1,11 @@
+% =========================================================================
+% TODO LIST
+% =========================================================================
+
+    - possibility to create a video from axesMesh
+    - bake axes
+    - multithreading UDP/signal processing
+        (to move the robot while processing the data)
+    - magnitude plot (dU)
+    - gitHub repository
+    - integrate the window choice to the excitation signal interface
