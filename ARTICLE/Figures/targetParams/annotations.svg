@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//Dtd SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/Dtd/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" width="44.786087mm" height="48.073024mm" viewBox="-0.756517525728802 -48.0730235489344 44.786087 48.073024" version="1.1" preserveAspectratio="xMidYMid">
+  <!--SVG version of Rhinoceros 5.0 file _Geometries.3dm_-->
+  <!-- Millimeters in Rhinoceros file-->
+  <!-- Millimeters in SVG file-->
+  <!--Export Rhino to SVG, version 0.3, 21 of November 2016, Laurent Delrieu email:l[dot]delrieu[at]neuf.fr-->
+  <g id="Default" stroke-width="0.25" stroke="rgb(0,0,0)" stroke-opacity="1" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  <g id="Layer 01" stroke-width="0.25" stroke="rgb(0,0,0)" stroke-opacity="1" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  <g id="Layer 02" stroke-width="0.25" stroke="rgb(0,0,0)" stroke-opacity="1" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  <g id="Layer 03" stroke-width="0.25" stroke="rgb(0,0,0)" stroke-opacity="1" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  <g id="Layer 04" stroke-width="0.25" stroke="rgb(0,0,0)" stroke-opacity="1" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  <g id="Layer 05" stroke-width="0.25" stroke="rgb(0,0,0)" stroke-opacity="1" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  <g id="BASE SETUP" stroke-width="0.25" stroke="rgb(0,0,0)" stroke-opacity="1" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <g id="BEAM SETUP" stroke-width="0.25" stroke="rgb(0,0,0)" stroke-opacity="1" stroke-linecap="round" stroke-linejoin="round" fill="none">
+      <g id="BEAM" stroke-width="0.25" stroke="rgb(0,0,0)" stroke-opacity="1" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+      <g id="WOOD" stroke-width="0.25" stroke="rgb(0,0,0)" stroke-opacity="1" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+      <g id="SHAKER" stroke-width="0.25" stroke="rgb(0,0,0)" stroke-opacity="1" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+    </g>
+    <g id="RLDV" stroke-width="0.25" stroke="rgb(0,0,0)" stroke-opacity="1" stroke-linecap="round" stroke-linejoin="round" fill="none">
+      <g id="ROBOT_BAKE" stroke-width="0.25" stroke="rgb(0,0,0)" stroke-opacity="1" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+      <g id="LASER_BAKE" stroke-width="0.25" stroke="rgb(0,0,0)" stroke-opacity="1" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+      <g id="LASER_BEAM_BAKE" stroke-width="0.25" stroke="rgb(0,0,0)" stroke-opacity="1" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+    </g>
+  </g>
+  <g id="TARGETS PARAMS" stroke-width="0.25" stroke="rgb(0,0,0)" stroke-opacity="1" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <g id="RLDV" stroke-width="0.25" stroke="rgb(0,0,0)" stroke-opacity="1" stroke-linecap="round" stroke-linejoin="round" fill="none">
+      <g id="ROBOT_BAKE" stroke-width="0.25" stroke="rgb(0,0,0)" stroke-opacity="1" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+      <g id="LASER_BAKE" stroke-width="0.25" stroke="rgb(0,0,0)" stroke-opacity="1" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+      <g id="LASER_BEAM_BAKE" stroke-width="0.25" stroke="rgb(0,0,0)" stroke-opacity="1" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+    </g>
+    <g id="TARGETS" stroke-width="0.25" stroke="rgb(0,0,0)" stroke-opacity="1" stroke-linecap="round" stroke-linejoin="round" fill="none">
+      <g id="CURVED BEAM" stroke-width="0.25" stroke="rgb(0,0,0)" stroke-opacity="1" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+      <g id="SURFACE" stroke-width="0.25" stroke="rgb(0,0,0)" stroke-opacity="1" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+      <g id="VECTORS" stroke-width="0.25" stroke="rgb(0,0,0)" stroke-opacity="1" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+      <g id="Annotations" stroke-width="0.25" stroke="rgb(0,0,0)" stroke-opacity="1" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+    </g>
+  </g>
+  <g id="Make2D" stroke-width="0.25" stroke="rgb(0,0,0)" stroke-opacity="1" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <g id="visible" stroke-width="0.25" stroke="rgb(0,0,0)" stroke-opacity="1" stroke-linecap="round" stroke-linejoin="round" fill="none">
+      <g id="lines" stroke-width="0.25" stroke="rgb(0,0,0)" stroke-opacity="1" stroke-linecap="round" stroke-linejoin="round" fill="none">
+        <line x1="7.691317" y1="-42.638964" x2="8.888712" y2="-43.70795" fill="none" />
+        <path d="M 15.234389 -33.531137 C14.963182,-32.98868 15.186902,-31.632799 15.696577,-30.512443 C15.951414,-29.952265 16.27774,-29.450968 16.611056,-29.082225 C16.944371,-28.713482 17.284675,-28.477291 17.566731,-28.426058 C17.848787,-28.374825 18.072593,-28.50855 18.207322,-28.779285 C18.342051,-29.050021 18.387703,-29.457769 18.327803,-29.953841 C18.208005,-30.945985 17.666006,-32.291428 17.045301,-33.05453 " fill="none" />
+        <path d="M 10.222115 -36.559584 C9.938976,-37.019528 9.351261,-37.495586 8.683919,-37.799088 C8.016576,-38.10259 7.269606,-38.233536 6.586931,-38.181839 C5.904256,-38.130143 5.285876,-37.895805 4.887407,-37.520922 C4.488938,-37.146039 4.310379,-36.630611 4.403707,-36.09699 C4.497036,-35.563368 4.86225,-35.011553 5.415786,-34.582306 C5.969322,-34.15306 6.71118,-33.846383 7.448728,-33.734007 C8.186277,-33.621631 8.919515,-33.703557 9.484073,-33.974829 C10.048631,-34.246101 10.444509,-34.706719 10.528318,-35.160903 " fill="none" />
+        <path d="M 10.498706 -28.451788 C9.913229,-28.471849 9.233014,-28.241646 8.696459,-27.829375 C8.159905,-27.417103 7.767011,-26.822764 7.575941,-26.161255 C7.38487,-25.499745 7.395623,-24.771067 7.611977,-24.129974 C7.828332,-23.488882 8.250288,-22.935375 8.785267,-22.579796 C9.320245,-22.224217 9.968246,-22.066565 10.59738,-22.134402 C11.226513,-22.202239 11.83678,-22.495564 12.311592,-22.944365 C12.786404,-23.393167 13.125761,-23.997445 13.262179,-24.667606 C13.398597,-25.337767 13.332077,-26.073812 13.090013,-26.630686 " fill="none" />
+        <path d="M 1.704859 -22.91771 C2.124997,-22.455677 2.628122,-22.024671 3.199713,-21.687598 C3.771303,-21.350526 4.411359,-21.107386 5.026135,-20.986351 C6.255688,-20.744281 7.384121,-20.990626 8.242035,-21.609213 C9.099949,-22.2278 9.687344,-23.218628 9.866281,-24.343757 C10.045218,-25.468886 9.815696,-26.728316 9.246886,-27.850679 C8.678075,-28.973042 7.769976,-29.958337 6.705949,-30.582993 C5.641921,-31.207649 4.421964,-31.471666 3.335257,-31.311079 C2.24855,-31.150492 1.295092,-30.565301 0.682737,-29.589637 C0.37656,-29.101805 0.155659,-28.516355 0.058781,-27.913711 C-0.038096,-27.311068 -0.01095,-26.691231 0.097402,-26.105506 " fill="none" />
+        <path d="M 20.290364 -36.861789 C19.71484,-33.595049 18.603882,-29.723914 17.077233,-25.824675 " fill="none" />
+        <line x1="4.950997" y1="-26.193009" x2="29.98008" y2="-43.601144" fill="none" />
+        <line x1="4.950997" y1="-26.193009" x2="29.867246" y2="-36.731321" fill="none" />
+        <line x1="4.950997" y1="-26.193009" x2="17.532291" y2="-24.097332" fill="none" />
+        <line x1="4.950997" y1="-26.193009" x2="10.647682" y2="-48.073024" fill="none" />
+        <line x1="35.072486" y1="0" x2="24.274295" y2="0" fill="none" />
+        <path d="M 35.072486 0 C33.013294,-0.628542 30.919749,-1.136606 28.85186,-1.733775 C27.972886,-1.987606 27.098548,-2.257537 26.232564,-2.554471 C24.456034,-3.163619 22.714661,-3.88641 21.074578,-4.796179 C19.400371,-5.724877 17.831714,-6.848414 16.393841,-8.115818 C14.864061,-9.464231 13.482319,-10.97549 12.250136,-12.600001 C10.866394,-14.424329 9.671267,-16.391483 8.709931,-18.469619 C7.790647,-20.456854 7.085149,-22.545573 6.661585,-24.694138 C6.275438,-26.652908 6.123615,-28.661417 6.281295,-30.649916 C6.432094,-32.551639 6.865972,-34.43506 7.586894,-36.204445 C8.333659,-38.037254 9.388414,-39.747705 10.756661,-41.173845 C12.030504,-42.501587 13.576072,-43.582897 15.287125,-44.260179 C16.121694,-44.590524 16.995632,-44.824751 17.882483,-44.966834 C18.796919,-45.113337 19.725083,-45.161875 20.649375,-45.118948 C21.624578,-45.073656 22.59547,-44.926546 23.54699,-44.703501 C24.585442,-44.460078 25.600821,-44.126213 26.587981,-43.724673 C28.74031,-42.849185 30.75849,-41.651981 32.583697,-40.210884 C34.414944,-38.765018 36.051939,-37.073643 37.41962,-35.186167 C38.765268,-33.329096 39.850209,-31.282192 40.64961,-29.131631 C41.493836,-26.860484 42.019603,-24.473729 42.287332,-22.067777 " fill="none" />
+        <line x1="40.443942" y1="-21.297835" x2="42.287332" y2="-22.067777" fill="none" />
+        <line x1="42.287332" y1="-22.067777" x2="44.02957" y2="-21.580517" fill="none" />
+        <line x1="24.274295" y1="0" x2="21.029355" y2="0" fill="none" />
+        <line x1="42.181411" y1="-20.828986" x2="44.02957" y2="-21.580517" fill="none" />
+        <path d="M 44.02957 -21.580517 C43.749892,-23.956739 43.242266,-26.309749 42.468531,-28.574379 C41.728118,-30.741479 40.744023,-32.827646 39.526443,-34.766699 C37.086299,-38.652739 33.708383,-41.947907 29.76078,-44.291698 C27.837584,-45.433548 25.779176,-46.349594 23.624177,-46.947449 C22.672055,-47.211593 21.701079,-47.413625 20.719807,-47.529375 C19.755795,-47.643091 18.781845,-47.673533 17.813243,-47.609022 C15.985032,-47.48726 14.175868,-47.027223 12.529083,-46.230295 C10.859931,-45.422542 9.3576,-44.268685 8.102034,-42.900004 C6.813152,-41.495004 5.784306,-39.863629 5.011612,-38.120952 C4.195585,-36.280542 3.665246,-34.315996 3.413111,-32.319388 C3.151693,-30.249276 3.189339,-28.144699 3.468833,-26.076308 C3.769443,-23.851648 4.349826,-21.668847 5.141961,-19.568002 C5.99772,-17.29842 7.100612,-15.124487 8.407594,-13.082256 C9.721831,-11.028687 11.24243,-9.108287 12.947132,-7.363113 C14.549609,-5.722589 16.314772,-4.236906 18.237079,-2.990519 C20.124347,-1.766851 22.163083,-0.773835 24.274295,0 " fill="none" />
+        <path d="M 7.691316 -42.638962 C6.286839,-41.388663 5.125641,-39.884251 4.212704,-38.243873 C3.245884,-36.506677 2.557495,-34.616991 2.149308,-32.671463 C1.733067,-30.687548 1.608194,-28.645566 1.736537,-26.622712 C1.874799,-24.443515 2.306929,-22.286516 2.960135,-20.201997 C3.667788,-17.943725 4.634907,-15.770518 5.812069,-13.718248 C7.014253,-11.622355 8.435504,-9.652595 10.046341,-7.851016 C11.595079,-6.118891 13.319067,-4.542229 15.20901,-3.191194 C16.093812,-2.558689 17.014987,-1.975636 17.968314,-1.452401 C18.958868,-0.908734 19.984135,-0.429648 21.029355,0 " fill="none" />
+        <line x1="40.443942" y1="-21.297835" x2="42.181411" y2="-20.828986" fill="none" />
+        <path d="M 11.084327 -41.505305 C12.305414,-42.380688 13.686736,-43.041931 15.138865,-43.431592 C16.626597,-43.830807 18.188652,-43.94496 19.724307,-43.821125 C21.445161,-43.682356 23.132865,-43.244736 24.746846,-42.62626 C26.513557,-41.949259 28.191932,-41.055553 29.748814,-39.983361 C32.758164,-37.910886 35.313588,-35.171545 37.129506,-32.001614 C38.037543,-30.416513 38.760671,-28.723746 39.302195,-26.978677 C39.875662,-25.130671 40.245468,-23.224011 40.443942,-21.297835 " fill="none" />
+      </g>
+    </g>
+  </g>
+</svg>
